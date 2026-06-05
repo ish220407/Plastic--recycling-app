@@ -1,0 +1,29 @@
+plastic-recycling-app/
+
+frontend/
+- Login
+- Register
+- Dashboard
+- Add Plastic Item
+- Pickup Request
+- Rewards
+- Profile
+
+backend/
+- Authentication
+- Users
+- Collectors
+- Pickups
+- Rewards
+- Admin
+
+database/
+- Users
+- Plastic Items
+- Pickups
+- Rewards
+
+documentation/
+- Requirements
+- API
+- Design
